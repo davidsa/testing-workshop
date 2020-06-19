@@ -1,0 +1,13 @@
+{
+  "name": "testing-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha src/**/*.test.js"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
